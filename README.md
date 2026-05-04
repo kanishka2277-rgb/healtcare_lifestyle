@@ -46,4 +46,9 @@ Technology Used
 
 Microsoft Power BI (Data Visualization & Dashboarding)
 Data Modeling & DAX for calculations
-Interactive visuals (charts, KPIs, slicers, segmentation tools)<img width="1142" height="640" alt="HealthCare overview" src="https://github.com/user-attachments/assets/f231a209-a5de-4360-8351-fd3ba0d5def7" />
+Interactive visuals (charts, KPIs, slicers, segmentation tools)<br><img width="1142" height="640" alt="HealthCare overview" src="https://github.com/user-attachments/assets/f231a209-a5de-4360-8351-fd3ba0d5def7" /><Br><img width="1121" height="631" alt="health_care_final_pg4 pbix" src="https://github.com/user-attachments/assets/c72b3181-cfb7-4f63-b4de-fb7983ba4ff3" /><br>
+<img width="1129" height="627" alt="health_care_final_pg3 pbix" src="https://github.com/user-attachments/assets/bd4ab445-0621-4ab4-8005-11454c4e25d7" />
+
+
+
+
